@@ -1,0 +1,9 @@
+SOLUCION OPTIMA PARA INSTANCIA 2
+===================================
+Polarizacion: 20.33
+Opinion Mediana (Valor): 0.83 (ID 6)
+Costo Total Utilizado: 24.48
+Movimientos Realizados: 18
+Distribucion Final: [20, 1, 0, 0, 0, 11, 18]
+Matriz de Transicion x:
+[20, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 2, 18]

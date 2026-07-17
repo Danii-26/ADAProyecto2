@@ -1,0 +1,9 @@
+SOLUCION OPTIMA PARA INSTANCIA 3
+===================================
+Polarizacion: 19.8
+Opinion Mediana (Valor): 0.15 (ID 2)
+Costo Total Utilizado: 9.75
+Movimientos Realizados: 8
+Distribucion Final: [38, 13, 9, 0, 0, 15, 5, 0]
+Matriz de Transicion x:
+[38, 2, 0, 0, 0, 0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 1, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]
